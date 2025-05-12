@@ -107,7 +107,7 @@ A simple RESTful API built with Python and Flask that demonstrates basic CRUD (C
    ```
 
 5. **The API will be running at:**  
-   [http://localhost:5000](http://localhost:5000)
+   [http://localhost:5000/hello](http://localhost:5000/hello)
 
 ---
 
